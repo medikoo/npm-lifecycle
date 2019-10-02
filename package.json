@@ -1,5 +1,5 @@
 {
-  "name": "npm-lifecycle",
+  "name": "npm-pro-lifecycle",
   "version": "3.1.4",
   "description": "JavaScript package lifecycle hook runner",
   "main": "index.js",
